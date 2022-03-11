@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+header{
+
+    text-align: center;
+    font-size: 25px;
+
+}
+
+main{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+footer{
+
+    padding-top: 800px;
+    text-align: center;
+
+}
